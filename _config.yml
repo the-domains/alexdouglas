@@ -1,0 +1,23 @@
+name: alexdouglas
+favicon: null
+layout_spectrum: 0.10849560447968543
+typography_spectrum: 0.5681669246405363
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4667212488129735
+  lightness: 0.3874275921843946
+  saturation: 0.008648899849504232
+  rhythmicContrast: 0.5041109481826425
+purpose: []
